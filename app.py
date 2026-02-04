@@ -100,7 +100,7 @@ with st.sidebar:
 
 # DASHBOARD
 if st.session_state.view_mode == "Dashboard":
-    st.title("📊 Dashboard Support Tickets")
+    st.title("🚨 Dashboard Support Tickets")
     
     tickets = st.session_state.tickets
     
