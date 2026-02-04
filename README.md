@@ -141,7 +141,6 @@ support-ticket-system/
 │
 └── screenshots/                # (optional) Screenshot folder
     ├── dashboard.png
-    ├── ticket-list.png
     └── analytics.png
 ```
 
