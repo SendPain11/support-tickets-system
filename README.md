@@ -326,7 +326,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Jika Anda menemukan bug atau memiliki saran:
 
 - **Buat Issue** di GitHub
-- **Email** ke: your.email@example.com
+- **Email** ke: sendyprisma02@gmail.com
 - **Diskusi** di GitHub Discussions
 
 ---
