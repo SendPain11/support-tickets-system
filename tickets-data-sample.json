@@ -1,0 +1,110 @@
+[
+  {
+    "id": "TKT-001",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+62 812-3456-7890",
+    "category": "Teknis",
+    "priority": "High",
+    "department": "IT Support",
+    "subject": "Cannot access admin panel",
+    "description": "I'm unable to login to the admin panel. Getting 'Invalid credentials' error even though I'm using the correct password. This is urgent as I need to process pending orders.",
+    "status": "In Progress",
+    "created_at": "2024-02-01 09:15:00",
+    "updated_at": "2024-02-01 14:30:00",
+    "comments": [
+      {
+        "author": "Support Team",
+        "text": "Hi John, we're looking into this issue. Can you try clearing your browser cache and cookies?",
+        "timestamp": "2024-02-01 10:00:00"
+      },
+      {
+        "author": "John Doe",
+        "text": "I tried that but still getting the same error.",
+        "timestamp": "2024-02-01 10:30:00"
+      }
+    ],
+    "assigned_to": "Tech Support - Alice"
+  },
+  {
+    "id": "TKT-002",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+62 821-9876-5432",
+    "category": "Billing",
+    "priority": "Medium",
+    "department": "Billing",
+    "subject": "Incorrect invoice amount",
+    "description": "I received an invoice for $500 but my plan is only $200/month. Please check and correct this.",
+    "status": "Resolved",
+    "created_at": "2024-02-02 11:20:00",
+    "updated_at": "2024-02-03 16:45:00",
+    "comments": [
+      {
+        "author": "Billing Team",
+        "text": "We found the issue. There was a billing system error. We've corrected your invoice and sent the updated one to your email.",
+        "timestamp": "2024-02-03 15:30:00"
+      },
+      {
+        "author": "Jane Smith",
+        "text": "Thank you! Invoice received and looks correct now.",
+        "timestamp": "2024-02-03 16:45:00"
+      }
+    ],
+    "assigned_to": "Billing - Bob"
+  },
+  {
+    "id": "TKT-003",
+    "name": "Robert Chen",
+    "email": "robert.chen@example.com",
+    "phone": "+62 813-5555-1234",
+    "category": "Produk",
+    "priority": "Low",
+    "department": "Sales",
+    "subject": "Product feature request",
+    "description": "Would be great if you could add dark mode to the application. Many users work at night and it would be easier on the eyes.",
+    "status": "Open",
+    "created_at": "2024-02-03 14:00:00",
+    "updated_at": "2024-02-03 14:00:00",
+    "comments": [],
+    "assigned_to": null
+  },
+  {
+    "id": "TKT-004",
+    "name": "Sarah Johnson",
+    "email": "sarah.j@example.com",
+    "phone": "+62 856-7777-8888",
+    "category": "Akun",
+    "priority": "High",
+    "department": "Customer Service",
+    "subject": "Unable to reset password",
+    "description": "I'm not receiving the password reset email. I've checked spam folder and it's not there. Need urgent help as I have important work to do.",
+    "status": "In Progress",
+    "created_at": "2024-02-04 08:30:00",
+    "updated_at": "2024-02-04 09:15:00",
+    "comments": [
+      {
+        "author": "Support Team",
+        "text": "Hi Sarah, we're checking the email delivery logs. Can you confirm your registered email address?",
+        "timestamp": "2024-02-04 09:00:00"
+      }
+    ],
+    "assigned_to": "Customer Service - Carol"
+  },
+  {
+    "id": "TKT-005",
+    "name": "Michael Brown",
+    "email": "m.brown@example.com",
+    "phone": "+62 878-1234-5678",
+    "category": "Lainnya",
+    "priority": "Medium",
+    "department": "Technical",
+    "subject": "API documentation unclear",
+    "description": "The API documentation for the /users endpoint is missing examples. Could you please add some code examples for common use cases?",
+    "status": "Open",
+    "created_at": "2024-02-04 10:00:00",
+    "updated_at": "2024-02-04 10:00:00",
+    "comments": [],
+    "assigned_to": null
+  }
+]
