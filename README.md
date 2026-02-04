@@ -10,12 +10,10 @@ Aplikasi web berbasis **Streamlit** untuk mengelola support tickets secara efisi
 ## 📸 Screenshot
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/667eea/ffffff?text=Dashboard+Overview)
+![Dashboard](/streamlit_projects/support-tickets-system/screenshoot/dashboard.png)
 
 ### Daftar Tiket
-![Ticket List](https://via.placeholder.com/800x400/764ba2/ffffff?text=Ticket+Management)
-
-*Note: Ganti placeholder di atas dengan screenshot aplikasi Anda*
+![Ticket List](/streamlit_projects/support-tickets-system/screenshoot/analytic.png)
 
 ## ✨ Fitur Utama
 
