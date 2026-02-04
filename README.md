@@ -308,7 +308,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**[Nama Anda]**
+**Sendy Prismana Nurferian**
 
 - GitHub: [@SendPain11](https://github.com/SendPain11)
 - LinkedIn: [Sendy Prismana Nurferian](https://linkedin.com/in/sendy-prismana-nurferian)
