@@ -310,8 +310,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **[Nama Anda]**
 
-- GitHub: [@yourusername](https://github.com/SendPain11)
-- LinkedIn: [Your Name](https://linkedin.com/in/sendy-prismana-nurferian)
+- GitHub: [@SendPain11](https://github.com/SendPain11)
+- LinkedIn: [Sendy Prismana Nurferian](https://linkedin.com/in/sendy-prismana-nurferian)
 - Email: sendyprisma02@gmail.com
 
 ## 🙏 Acknowledgments
